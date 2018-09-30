@@ -1,41 +1,14 @@
+[{
+	"title": "facebook",
+	"pkn": "com.facebook.katana",
+	"content": "Keeping up with friends is faster and easier than ever. ",
+	"icon": "https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=s360-rw",
+	"big_icon": "https://lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=s360-rw"
+},
 {
-	"native": [{
-			"ad": "Admob",
-			"quantity": 100,
-			"appid": "ca-app-pub-3940256099942544~3347511713",
-			"id": "ca-app-pub-3940256099942544/2247696110"
-		},
-		{
-			"ad": "Facebook",
-			"quantity": 0,
-			"appid": "",
-			"id": ""
-		}
-	],
-	"banner": [{
-			"ad": "Admob",
-			"quantity": 0,
-			"appid": "",
-			"id": ""
-		},
-		{
-			"ad": "Facebook",
-			"quantity": 0,
-			"appid": "",
-			"id": ""
-		}
-	],
-	"interstitial": [{
-			"ad": "Admob",
-			"appid": "ca-app-pub-3940256099942544~3347511713",
-			"quantity": 100,
-			"id": "ca-app-pub-3940256099942544/1033173712"
-		},
-		{
-			"ad": "Facebook",
-			"appid": "",
-			"quantity": 0,
-			"id": ""
-		}
-	]
-}
+	"title": "whats app",
+	"pkn": "com.whatsapp",
+	"content": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones. ",
+	"icon": "https://lh3.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA=s180-rw",
+	"big_icon": "https://lh3.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA=s180-rw"
+}]
