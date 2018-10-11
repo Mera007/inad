@@ -4,7 +4,7 @@
 	"splash_id": "8863364436303842593",
 	"interstitial_id": "8575134060152130849",
 	"native_express_id": "7030020348049331",
-	"native_pos_id ": "5010320697302671",
+	"native_pos_id": "5010320697302671",
 	"banner_enabled": true,
 	"splash_enabled": true,
 	"interstitial_enabled": true,
