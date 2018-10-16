@@ -6,7 +6,7 @@
 	"native_express_id": "7030020348049331",
 	"native_pos_id": "5010320697302671",
 	"banner_enabled": true,
-	"splash_enabled": false,
+	"splash_enabled": true,
 	"interstitial_enabled": true,
 	"native_express_enabled": true,
 	"native_pos_enabled": true
