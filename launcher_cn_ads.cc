@@ -1,0 +1,43 @@
+
+{
+    "native":[
+        {
+            "app_id":"1101152570",
+            "unit_id":"7030020348049331",
+            "enabled":true,
+            "max_count":5
+        },
+        {
+            "app_id":"1101152570",
+            "unit_id":"7030020348049331",
+            "enabled":true,
+            "max_count":3
+        },
+        {
+            "app_id":"1101152570",
+            "unit_id":"7030020348049331",
+            "enabled":true,
+            "max_count":6
+        }
+    ],
+    "banner":[
+
+    ],
+    "splash":[
+        {
+            "app_id":"1101152570",
+            "unit_id":"8863364436303842593",
+            "enabled":true,
+            "max_count":3
+        }
+    ],
+    "interstitial":[
+        {
+            "app_id":"1101152570",
+            "unit_id":"8575134060152130849",
+            "enabled":true,
+            "max_count":3
+        }
+    ]
+}
+
